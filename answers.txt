@@ -1,0 +1,5 @@
+Q1: 066d79cb 
+Q2: 3
+Q3: git pull, because someone else pushed a coimmit, that we dont have locally. Download the merge first then push.
+Q4: No, It only stops future commits, so password onyl remains in git history.
+Q5: git branch -d old-fix, git push origin --delete old-fix.
